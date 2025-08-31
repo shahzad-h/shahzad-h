@@ -5,6 +5,6 @@ I enjoy software development and cybersecurity. For the most part, I have experi
 
 One of my main projects is [takepoints.io](https://takepoints.io), an [open-source](https://github.com/takepoint-io) recreation of the game takepoint.io with more upgrade paths. 
 
-In terms of cybersecurity, I'm currently CompTIA Security+ and GSEC certified, and my [team](https://play.picoctf.org/teams/11663) placed top 40 on PicoCTF 2024's high school leaderboard.
+In terms of cybersecurity, I'm currently CompTIA Security+ and GSEC certified.
 
 Check out my [website](https://shahzad-h.github.io) for more information!
