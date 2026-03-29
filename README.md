@@ -9,4 +9,4 @@ I'm currently CompTIA Security+ and GSEC certified.
 
 Check out my [website](https://shahzad-h.github.io) for more information!
 
-> ##### *I did not want to keep paying for domain renewal and monthly VPS costs out of my own pocket (at least for the forseeable future), so I took the servers offline and let the takepoints.io domain expire. However, you're free to grab copies of the prebuilt docker images and selfhost it.
+> ##### *I did not want to pay for domain renewal and monthly VPS costs (at least for the forseeable future), so I took the servers offline and let the takepoints.io domain expire. However, you're free to grab copies of the prebuilt docker images and selfhost it.
